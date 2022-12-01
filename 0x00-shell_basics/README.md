@@ -1,1 +1,1 @@
-This directory contain files related to Shell basics
+This directory contains files related to shell basics
